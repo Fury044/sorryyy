@@ -148,4 +148,14 @@ li, svg {
   }
 }
 
+.message {
+  position: absolute;
+  top: 60%; /* Adjust this value as needed to position it correctly below the flower */
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
 /*# sourceMappingURL=style.css.map */
